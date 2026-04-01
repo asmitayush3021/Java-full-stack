@@ -12,6 +12,15 @@
         </option>
       </GradleProjectSettings>
       <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Dependency Injection/2_dependency_injection_with_configuration_anno/colours" />
+        <option name="gradleJvm" value="#JAVA_HOME" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/Dependency Injection/2_dependency_injection_with_configuration_anno/colours" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
         <option name="externalProjectPath" value="$PROJECT_DIR$/quickstart" />
         <option name="gradleJvm" value="#JAVA_HOME" />
         <option name="modules">

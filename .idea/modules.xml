@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Java full stack.iml" filepath="$PROJECT_DIR$/.idea/Java full stack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.devtiro.dependency-injection.iml" filepath="$PROJECT_DIR$/.idea/modules/com.devtiro.dependency-injection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.devtiro.dependency-injection.main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.devtiro.dependency-injection.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/dependency-injection.main.iml" filepath="$PROJECT_DIR$/.idea/modules/dependency-injection.main.iml" />
     </modules>
   </component>

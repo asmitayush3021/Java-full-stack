@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="CompilerConfiguration">
-    <annotationProcessing>
-      <profile default="true" name="Default" enabled="true" />
-    </annotationProcessing>
-  </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="com.devtiro.dependency-injection" options="-parameters" />
+      <module name="com.devtiro.dependency-injection.main" options="-parameters" />
+      <module name="com.devtiro.dependency-injection.test" options="-parameters" />
       <module name="dependency-injection" options="-parameters" />
       <module name="dependency-injection.main" options="-parameters" />
       <module name="dependency-injection.test" options="-parameters" />
