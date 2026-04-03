@@ -5,12 +5,70 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="41f0c702-77bc-4aa6-bf41-6ec508d12a98" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/modules/com.devtiro.dependency-injection.main.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Java full stack.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/com.devtiro.dependency-injection.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/com.devtiro.dependency-injection.main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/dependency-injection.main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dependency Injection/1_no_dependency_injection/colors/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dependency Injection/1_no_dependency_injection/colors/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dependency Injection/1_no_dependency_injection/colors/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dependency Injection/1_no_dependency_injection/colors/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dependency Injection/1_no_dependency_injection/colors/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dependency Injection/1_no_dependency_injection/colors/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dependency Injection/1_no_dependency_injection/colors/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dependency Injection/1_no_dependency_injection/colors/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dependency Injection/1_no_dependency_injection/colors/src/main/java/com/devtiro/dependency/injection/ColoursApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dependency Injection/1_no_dependency_injection/colors/src/main/java/com/devtiro/dependency/injection/services/BluePrinter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dependency Injection/1_no_dependency_injection/colors/src/main/java/com/devtiro/dependency/injection/services/ColourPrinter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dependency Injection/1_no_dependency_injection/colors/src/main/java/com/devtiro/dependency/injection/services/GreenPrinter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dependency Injection/1_no_dependency_injection/colors/src/main/java/com/devtiro/dependency/injection/services/RedPrinter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dependency Injection/1_no_dependency_injection/colors/src/main/java/com/devtiro/dependency/injection/services/impl/ColourPrinterImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dependency Injection/1_no_dependency_injection/colors/src/main/java/com/devtiro/dependency/injection/services/impl/EnglishBluePrinter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dependency Injection/1_no_dependency_injection/colors/src/main/java/com/devtiro/dependency/injection/services/impl/EnglishGreenPrinter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dependency Injection/1_no_dependency_injection/colors/src/main/java/com/devtiro/dependency/injection/services/impl/EnglishRedPrinter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dependency Injection/1_no_dependency_injection/colors/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dependency Injection/1_no_dependency_injection/colors/src/test/java/com/devtiro/dependency/injection/DependencyInjectionApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dependency Injection/2_dependency_injection_with_configuration_anno/colours/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dependency Injection/2_dependency_injection_with_configuration_anno/colours/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dependency Injection/2_dependency_injection_with_configuration_anno/colours/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dependency Injection/2_dependency_injection_with_configuration_anno/colours/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dependency Injection/2_dependency_injection_with_configuration_anno/colours/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dependency Injection/2_dependency_injection_with_configuration_anno/colours/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dependency Injection/2_dependency_injection_with_configuration_anno/colours/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dependency Injection/2_dependency_injection_with_configuration_anno/colours/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dependency Injection/2_dependency_injection_with_configuration_anno/colours/src/main/java/com/devtiro/dependency/injection/ColoursApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dependency Injection/2_dependency_injection_with_configuration_anno/colours/src/main/java/com/devtiro/dependency/injection/config/PrinterConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dependency Injection/2_dependency_injection_with_configuration_anno/colours/src/main/java/com/devtiro/dependency/injection/services/BluePrinter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dependency Injection/2_dependency_injection_with_configuration_anno/colours/src/main/java/com/devtiro/dependency/injection/services/ColourPrinter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dependency Injection/2_dependency_injection_with_configuration_anno/colours/src/main/java/com/devtiro/dependency/injection/services/GreenPrinter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dependency Injection/2_dependency_injection_with_configuration_anno/colours/src/main/java/com/devtiro/dependency/injection/services/RedPrinter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dependency Injection/2_dependency_injection_with_configuration_anno/colours/src/main/java/com/devtiro/dependency/injection/services/impl/ColourPrinterImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dependency Injection/2_dependency_injection_with_configuration_anno/colours/src/main/java/com/devtiro/dependency/injection/services/impl/SpanishBluePrinter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dependency Injection/2_dependency_injection_with_configuration_anno/colours/src/main/java/com/devtiro/dependency/injection/services/impl/SpanishGreenPrinter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dependency Injection/2_dependency_injection_with_configuration_anno/colours/src/main/java/com/devtiro/dependency/injection/services/impl/SpanishRedPrinter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dependency Injection/2_dependency_injection_with_configuration_anno/colours/src/main/resources/EnglishBluePrinter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dependency Injection/2_dependency_injection_with_configuration_anno/colours/src/main/resources/EnglishGreenPrinter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dependency Injection/2_dependency_injection_with_configuration_anno/colours/src/main/resources/EnglishRedPrinter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dependency Injection/2_dependency_injection_with_configuration_anno/colours/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dependency Injection/2_dependency_injection_with_configuration_anno/colours/src/test/java/com/devtiro/dependency/injection/DependencyInjectionApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quickstart/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quickstart/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quickstart/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quickstart/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quickstart/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quickstart/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quickstart/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quickstart/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quickstart/src/main/java/com/devtiro/quickstart/HelloWorldController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quickstart/src/main/java/com/devtiro/quickstart/QuickstartApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quickstart/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quickstart/src/test/java/com/devtiro/quickstart/QuickstartApplicationTests.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,10 +96,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 1
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="3BlziJ8yRpO8R7eTu2WjIiv52wk" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -59,6 +117,7 @@
     "RequestMappingsPanelWidth0": "75",
     "RequestMappingsPanelWidth1": "75",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "Spring Boot.ColoursApplication.executor": "Run",
@@ -67,6 +126,7 @@
     "ignore.virus.scanning.warn.message": "true",
     "junie.onboarding.icon.badge.shown": "true",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Java full stack",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -118,7 +178,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1775078573343</updated>
-      <workItem from="1775078575471" duration="4443000" />
+      <workItem from="1775078575471" duration="4938000" />
+      <workItem from="1775197757949" duration="2853000" />
     </task>
     <servers />
   </component>
