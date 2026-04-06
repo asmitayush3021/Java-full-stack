@@ -1,20 +1,25 @@
-.list-category{
-    font-size: 2.5em;
-    font-weight: bold;
-    color: hsl(0, 0%, 20%);
-    margin-bottom: 10px;
-    border: 3px solid;
-    border-radius: 5px;
-    background-color: hsl(185, 100%, 50%);
-}
-.list-items li{
-    font-size: 2em;
-    list-style:none;
-    color:hsl(0, 0%, 25%);
+.counter-container{
     text-align: center;
-    margin: 0;
+    font-family: Arial,sans-serif
 }
-.list-items li:hover{
-    color: hsl(0, 0%, 45%);
+.count-display{
+    font-size: 10em;
+    margin-top: 0px;
+    margin-bottom: 50px;
+    
+}
+.counter-button{
+    width:150px;
+    height:50px;
+    font-weight: bold;
+    margin: 0px 5px;
+    background-color: hsl(197,100%,58%);
+    color:white;
+    border: none;
+    border-radius: 5px;
     cursor: pointer;
+
+}
+.counyter-button:hover{
+    background-color: hsl(197,100%,48%);
 }
